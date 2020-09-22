@@ -1,8 +1,5 @@
 # The effect of capital gains tax exemptions in non-agricultural private employment in Puerto Rico
 
-## Citation
-Santos-Lozada, Alexis R. and __________. (XXXX). The effect of capital gains tax exemptions in non-agricultural private employment in Puerto Rico.
-
 # Introduction
 This repository contains the code and data required to replicate the study: The effect of capital gains tax exemptions in non-agricultural private employment in Puerto Rico
 
